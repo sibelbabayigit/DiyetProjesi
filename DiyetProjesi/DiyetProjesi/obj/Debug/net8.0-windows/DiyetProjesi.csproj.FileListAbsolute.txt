@@ -1,0 +1,14 @@
+C:\Users\Sibel\Desktop\DiyetProjesi\DiyetProjesi\DiyetProjesi\bin\Debug\net8.0-windows\DiyetProjesi.exe
+C:\Users\Sibel\Desktop\DiyetProjesi\DiyetProjesi\DiyetProjesi\bin\Debug\net8.0-windows\DiyetProjesi.deps.json
+C:\Users\Sibel\Desktop\DiyetProjesi\DiyetProjesi\DiyetProjesi\bin\Debug\net8.0-windows\DiyetProjesi.runtimeconfig.json
+C:\Users\Sibel\Desktop\DiyetProjesi\DiyetProjesi\DiyetProjesi\bin\Debug\net8.0-windows\DiyetProjesi.dll
+C:\Users\Sibel\Desktop\DiyetProjesi\DiyetProjesi\DiyetProjesi\bin\Debug\net8.0-windows\DiyetProjesi.pdb
+C:\Users\Sibel\Desktop\DiyetProjesi\DiyetProjesi\DiyetProjesi\obj\Debug\net8.0-windows\DiyetProjesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sibel\Desktop\DiyetProjesi\DiyetProjesi\DiyetProjesi\obj\Debug\net8.0-windows\DiyetProjesi.AssemblyInfoInputs.cache
+C:\Users\Sibel\Desktop\DiyetProjesi\DiyetProjesi\DiyetProjesi\obj\Debug\net8.0-windows\DiyetProjesi.AssemblyInfo.cs
+C:\Users\Sibel\Desktop\DiyetProjesi\DiyetProjesi\DiyetProjesi\obj\Debug\net8.0-windows\DiyetProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Sibel\Desktop\DiyetProjesi\DiyetProjesi\DiyetProjesi\obj\Debug\net8.0-windows\DiyetProjesi.dll
+C:\Users\Sibel\Desktop\DiyetProjesi\DiyetProjesi\DiyetProjesi\obj\Debug\net8.0-windows\refint\DiyetProjesi.dll
+C:\Users\Sibel\Desktop\DiyetProjesi\DiyetProjesi\DiyetProjesi\obj\Debug\net8.0-windows\DiyetProjesi.pdb
+C:\Users\Sibel\Desktop\DiyetProjesi\DiyetProjesi\DiyetProjesi\obj\Debug\net8.0-windows\DiyetProjesi.genruntimeconfig.cache
+C:\Users\Sibel\Desktop\DiyetProjesi\DiyetProjesi\DiyetProjesi\obj\Debug\net8.0-windows\ref\DiyetProjesi.dll
